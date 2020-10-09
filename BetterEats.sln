@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterEats", "BetterEats\BetterEats.csproj", "{0CDD6165-4A5E-453D-9F8B-75761720BD2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDD6165-4A5E-453D-9F8B-75761720BD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDD6165-4A5E-453D-9F8B-75761720BD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDD6165-4A5E-453D-9F8B-75761720BD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDD6165-4A5E-453D-9F8B-75761720BD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011AB6AC-C4A7-4409-9580-78F740A8DF81}
+	EndGlobalSection
+EndGlobal
